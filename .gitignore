@@ -1,0 +1,15 @@
+# Bulk working data (sleep-app screenshots & per-sample outputs)
+Cutted images/
+Grayscaled images/
+Resized images/
+CSV files/
+*.zip
+# Python / notebook
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+# OS
+.DS_Store
+Thumbs.db
