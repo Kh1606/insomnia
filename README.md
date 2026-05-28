@@ -6,6 +6,10 @@ the per-minute sleep stages, writes them to CSV, and analyzes sleep patterns.
 
 **Stack:** Python · OpenCV · Pandas · Matplotlib · Jupyter
 
+![How it works](docs/howitworks.png)
+
+*Rendered from [`docs/howitworks.py`](docs/howitworks.py) (Python `diagrams` library).*
+
 ## Pipeline
 
 ```
